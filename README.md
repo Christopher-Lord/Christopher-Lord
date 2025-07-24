@@ -30,14 +30,14 @@ I am a software development student with a background in 3D animation and strong
 ## 📺 Project Showcase
 
 ### Tech:
-- Project SDF03: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF03.git" target="_blank">Cat Instagram Recreation</a>
+😺 Project SDF03: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF03.git" target="_blank">Cat Instagram Recreation</a>
 <br/>
 
 ![CodeSpace Pets Instagram](https://github.com/Christopher-Lord/Christopher-Lord/blob/main/images/CodeSpaceCat-Insta%20(1).gif?raw=true)
 
 <br/>
 
-- Project SDF04: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF04.git" target="_blank">Responsive Footer Recreation</a>
+💻 Project SDF04: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF04.git" target="_blank">Responsive Footer Recreation</a>
 
 <br/>
 
@@ -53,16 +53,19 @@ https://github.com/user-attachments/assets/dacdd9b6-df84-48b4-8231-faa206995c5d
 
 ## 📫 Connect with Me
 
-<a href="lordc42@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/christopher-lord-634495163/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<div>
+  <a href="mailto:lordc42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/christopher-lord-634495163/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ## 🏆 Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Christopher-Lord&show_icons=true&theme=onedark" alt="Github Stats" />
 </div>
