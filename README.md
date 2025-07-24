@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/dacdd9b6-df84-48b4-8231-faa206995c5d
   </a>
   <br/>
   <br/>
-  <a href="https://www.linkedin.com/in/christopher-lord-634495163/" target="_blank">
+  <a href="https://www.linkedin.com/in/-christopher-lord/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
