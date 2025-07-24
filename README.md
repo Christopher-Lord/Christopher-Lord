@@ -32,13 +32,16 @@ I am a software development student with a background in 3D animation and strong
 ### Tech:
 😺 Project SDF03: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF03.git" target="_blank">Cat Instagram Recreation</a>
 <br/>
+  - Recreated the styling from a given design using CSS.
+<br/>
 
 ![CodeSpace Pets Instagram](https://github.com/Christopher-Lord/Christopher-Lord/blob/main/images/CodeSpaceCat-Insta%20(1).gif?raw=true)
 
 <br/>
 
 💻 Project SDF04: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF04.git" target="_blank">Responsive Footer Recreation</a>
-
+<br/>
+  - Recreated a responsive footer from given designs using HTML and CSS.
 <br/>
 
 ![Responsive Footer](https://github.com/Christopher-Lord/Christopher-Lord/blob/main/images/ResponsiveFooter.gif?raw=true)
