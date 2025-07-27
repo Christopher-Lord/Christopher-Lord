@@ -32,7 +32,8 @@ I am a software development student with a background in 3D animation and strong
 ### Tech:
 😺 Project SDF03: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF03.git" target="_blank">Cat Instagram Recreation</a>
 <br/>
-  - Recreated the styling from a given design using CSS.
+  - Tasked with recreating the styling of a small Instagram inspired web page from a given design using CSS.
+  - The HTML was provided, though I did make a few adjustments, and the CSS was written entirely by me.
 <br/>
 
 ![CodeSpace Pets Instagram](https://github.com/Christopher-Lord/Christopher-Lord/blob/main/images/CodeSpaceCat-Insta%20(1).gif?raw=true)
@@ -41,7 +42,8 @@ I am a software development student with a background in 3D animation and strong
 
 💻 Project SDF04: <a href="https://github.com/Christopher-Lord/CHRLOR25533_FTO2506_GroupB_ChristopherLord_SDF04.git" target="_blank">Responsive Footer Recreation</a>
 <br/>
-  - Recreated a responsive footer from given designs using HTML and CSS.
+  - Tasked with recreating an isolated responsive footer designed around the CodeSpace web page.
+  - The design was provided and the HTML and CSS were written by me.
 <br/>
 
 ![Responsive Footer](https://github.com/Christopher-Lord/Christopher-Lord/blob/main/images/ResponsiveFooter.gif?raw=true)
@@ -49,7 +51,16 @@ I am a software development student with a background in 3D animation and strong
 <br/>
 
 ### Animation Showreel:
-
+<br/>
+  - A short showreel showcasing a few of the animation projects I've worked on.
+    
+      - The Snail and the Whale
+        
+      - Herderboy
+    
+      - Stardust
+        
+        
 <br/>
 
 https://github.com/user-attachments/assets/dacdd9b6-df84-48b4-8231-faa206995c5d
